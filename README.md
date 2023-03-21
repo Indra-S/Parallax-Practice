@@ -2,7 +2,7 @@
 
 Parallax Website is a visually stunning web project built using HTML and CSS. It is a beautiful and functional website that utilizes the parallax scrolling effect to create an immersive and engaging user experience.
 
-## 📌 **Live Site URL:** <a href="indra-s.github.io/Image-Gallery/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://indra-s.github.io/Parallax-Practice/">**Visit Now** 🚀</a>
 
 <br>
 
